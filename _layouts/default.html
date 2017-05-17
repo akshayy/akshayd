@@ -1,0 +1,56 @@
+{% include header.html %}
+
+
+<body class="animated fadeIn">
+    <div class="container content">
+
+    <header class="masthead" style="/* background-image: url(https://dl2.pushbulletusercontent.com/i4aqO5ZsrV3JPOr2mf4RQVHZNzwrRap6/IMG_20170429_230729.jpg); */text-align: left;/* border-radius: 400px; */">
+
+    <!-- Navigation Loop -->
+    {% if page.title == 'Writing' %}
+	<nav class="nav">
+	<ul>
+	    <li><a href="{{ site.url }}" >Home</a></li>
+	</ul>  
+	</nav>
+    {% endif %}
+    {% if page.title != 'Writing' %}
+    <nav class="nav">
+    <ul>
+        <li></li>
+	<li><a href="{{ site.url }}/writing">Writing</a></li>
+    </ul>  
+    </nav>
+    {% endif %}
+
+
+
+    <div style="text-align: center;margin-top: -40px;">
+	<img src="{{ site.url }}/public/images/profpic.jpg" style="
+	height: 150px;
+	width: 150px;
+	border-radius: 90px;
+	border: solid 3px #00bd9c">
+    </div>
+    <h1 class="big-serif" style="margin-top: 0px;">Akshay Deshmukh</h1>
+    <h2 class="small-sans" style="
+    text-align: center;
+    margin-top: -25px;
+    font-size: 24px;
+">Product Manager | Engineering Lead | Escapist </h2>
+<h2 class="small-sans">
+    <p>I am a software developer with a degree in Information Technology and deep passion about the jobs I undertake.
+    I believe in putting my heart and soul into all my endeavours. Currently leading the product engineering and product effort at Zinrelo (formerly ShopSocially).
+    </p>
+</h2>
+
+</header>
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+
+
+</html>

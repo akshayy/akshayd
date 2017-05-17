@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Akshay</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-05-17T23:21:27+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to Jekyll!</title>
+   <link href="http://localhost:4000///jekyll/update/2017/04/29/welcome-to-jekyll.html"/>
+   <updated>2017-04-29T21:47:31+05:30</updated>
+   <id>http://localhost:4000/jekyll/update/2017/04/29/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The crossroad</title>
+   <link href="http://localhost:4000///blog/2013/02/20/the-crossroad.html"/>
+   <updated>2013-02-20T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2013/02/20/the-crossroad</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://static1.squarespace.com/static/54144392e4b0f3ffdd71ce8c/t/541cd74be4b09194f765e56b/1411829624627/yz4Pc1FTiZNs8z1EhNZqocVJho7.jpg?format=1500w&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I find myself standing at the crossroad,&lt;br /&gt;
+as confused as never.&lt;br /&gt;
+Unsure of what way to take,&lt;br /&gt;
+the ways seems so misty and unclear.&lt;/p&gt;
+
+&lt;p&gt;I make a choice and take one of them,&lt;br /&gt;
+I drag along it for a mile.&lt;br /&gt;
+I start feeling spirited only untill,&lt;br /&gt;
+the mist grows thicker after a while.&lt;/p&gt;
+
+&lt;p&gt;The fog takes over the spirits&lt;br /&gt;
+and I am back to square one.&lt;br /&gt;
+I attempt for the other way only to realise&lt;br /&gt;
+my journey on it ended before it had even begun.&lt;/p&gt;
+
+&lt;p&gt;Been at the crossroad for quite some time now,&lt;br /&gt;
+the dilemma has deprived me of my bliss.&lt;br /&gt;
+Am I not sure what way to take&lt;br /&gt;
+or am I not sure what my destination is?&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The contagion of smile</title>
+   <link href="http://localhost:4000///blog/2013/01/17/the-contagion-of-smile.html"/>
+   <updated>2013-01-17T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2013/01/17/the-contagion-of-smile</id>
+   <content type="html">&lt;p&gt;Smile is one curve that sets life straight.&lt;/p&gt;
+
+&lt;p&gt;She always liked this journey to school. She would sing aloud in the car for the chauffeur did not mind. In fact ,he enjoyed the company of this little eight year old girl. He would even sometimes suggest her a song or two. As the car was about to come to halt at the signal, she stopped singing and started humming. A few seconds had passed when she saw a man staring at the window pane. His look was of the kind one would associate with the word —’despair’. Their eyes met and she smiled. Her face was glowing with liveliness as she kept tapping her school bag and continued to hum.&lt;/p&gt;
+
+&lt;p&gt;He was asked to resign three weeks ago. His outspokenness and the leading skirmish with his reporting manager had cost him his job. He had been desperately hunting for a job since then. The unfortunate turn of events at his workplace coupled with problems he had been having in his relationship with his girlfriend of six years had made him cynical. He was headed for an interview now but did not have a positive feeling about it. As his motorbike stopped at the signal alongside a car to his right,he stared at the window of the car. His thoughts raced and fed his mind with images of the recent events responsible for the look of ‘despair’ on his face. A honking horn broke his oblivion when he saw a bubbly girl with a cherubic face sitting in the car smiling at him. He smiled back. The girl’s beaming smile and her twinkling eyes had worked their charm. The look of despair was supplanted by a high spirited smile. The signal had turned green and he tried to kick start his bike. Three unsuccessful kicks had not waned his smile. He got it right the fourth time. The world had suddenly started to seem a better place to him.&lt;/p&gt;
+
+&lt;p&gt;“……….you have changed”, he said. “so have you!!”,she had said and stormed out of the room. She had been married for fourteen years. Lately, she and her husband had not been able to spend time together owing to their work priorities and blamed each other. The love in their relationship had taken a backseat owing to their career aspirations. The stress at the job and the daily spats at home had taken a toll on her. She felt a little exhausted and tried to rest her head down on the steering wheel for a while when her car stopped at the signal. That did not help her much. Just when the signal had gone green, she saw a man attempting to kick start his motor bike. She saw that his face was wearing a smile. In spite of consecutive failures at starting his motorbike, the smile had not worn off. Her lips formed a curve inadvertently. She was smiling. She felt better. She was going to rush home and prepare dinner which were to include her husband’s favorite dishes. The smile had worked.&lt;/p&gt;
+
+&lt;p&gt;The contagion of smile had begun.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hope is a sweet poison</title>
+   <link href="http://localhost:4000///blog/2013/01/17/hope-is-a-sweet-poison.html"/>
+   <updated>2013-01-17T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2013/01/17/hope-is-a-sweet-poison</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/08/13/636067110320305634591838426_hope-hand.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When times seem tough,&lt;br /&gt;
+the peace and solace evades,&lt;br /&gt;
+the mind comes up with HOPE,&lt;br /&gt;
+and does not let you fade.&lt;/p&gt;
+
+&lt;p&gt;The mind convinces you,&lt;br /&gt;
+that a miracle would happen,&lt;br /&gt;
+the thought fuels your spirits,&lt;br /&gt;
+And does not let them dampen.&lt;/p&gt;
+
+&lt;p&gt;You loose track of time,&lt;br /&gt;
+and start enjoying the wait,&lt;br /&gt;
+but with every growing second,&lt;br /&gt;
+you grow even more desperate.&lt;/p&gt;
+
+&lt;p&gt;slowly the happiness wanes,&lt;br /&gt;
+and you are slumped into dejection,&lt;br /&gt;
+its quite late when you realize my friend,&lt;br /&gt;
+that hope is but a sweet poison.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dear Aai</title>
+   <link href="http://localhost:4000///blog/2013/01/17/dear-aai.html"/>
+   <updated>2013-01-17T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2013/01/17/dear-aai</id>
+   <content type="html">&lt;p&gt;Dear Aai……,&lt;br /&gt;
+You have no idea how overwhelmed I get when I think how proud I am to be born to you.What a wonderful human being you are ,Mom.I just cant find the right words to describe you.I really think,if God really existed,he could not have been better.&lt;/p&gt;
+
+&lt;p&gt;Mom,I must tell you that I still cherish the sight of you waiting for me to get back from school and the way you used to shout when I used to jump down from the running auto.I still vividly remember how patiently u heard me out preparing breakfast for me when I told you about how my day at school was.When you asked me,”What do you want for lunch in your tiffin today?” ,I used to give absurd answers,I used to demand food which took a lot trouble to prepare.But then in school,when I used to open my tiffin and see that you had happily gone and took the trouble to fulfill my demand,I used to be so ashamed of myself and so filled with gratitude.Aai,I am sorry for all the trouble I have caused you.Mom,I badly miss the time when you used to feed me with your own hand while I was busy watching T.V.&lt;/p&gt;
+
+&lt;p&gt;Mom,I fall short of words to describe the solace I find in you lap.I remember how my problems dont dare to bother me when you are around.I appreciate you for keeping me grounded,Mom.Aai,I just want to tell you that even if “Akshay” grows up for the world,I would be the same “pappu” for you.Aai,sometimes when i look at myself,I see reflections of your behaviour in me.If there is even a single thing good about me,if I am or were to be someone tomorrow ,I owe it to you, Mom,to you.&lt;/p&gt;
+
+&lt;p&gt;Mom,this Mother’s day ,I just want to let you know Mom,every moment I crave for your immaculate love and care.I am pretty sure whatever I do for you ,I will not be able to pay off your debt.&lt;/p&gt;
+
+&lt;p&gt;Mom,I simply love you so much.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>30 Minutes and the Free Pizza</title>
+   <link href="http://localhost:4000///blog/2013/01/17/30-minutes-and-the-free-pizza.html"/>
+   <updated>2013-01-17T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2013/01/17/30-minutes-and-the-free-pizza</id>
+   <content type="html">&lt;p&gt;He had been lying like a log staring at the T.V since he woke up 20 minutes ago. This is how his sunday afternoons used to be . A pizza ad reminded him that he was hungry.He had skipped lunch while watching a rom-com on his laptop and had fallen asleep.He decided to order a pizza. He started moving his limbs in hope of his digits grappling his cell phone.But that was futile.He realised that he will have to let go of the inactivity , arise and search for his phone.He rose and found his cell phone on the study table. Yawning with his jaws wide open than they would be for usual yawn,he looked up for Dominos number and dialled it After 2 rings , a sweet female voice answered,”Hello ,Dominos Pizza.”&lt;/p&gt;
+
+&lt;p&gt;He: “Maam,I would like to place an order for 1 medium Mexican Green wave pizza , garlic bread with cheese dip and one chicken kickers and one coke.”
+She: “1 Mexican green wave,garlic bread with Cheese dip and ….”  &lt;br /&gt;
+He: “One chicken Kickers and one coke.”&lt;br /&gt;
+She: “Is there anything else you would like to order,Sir?”
+He: “No Maam,that would be enough.”&lt;br /&gt;
+She:”Sir, your address..?”&lt;/p&gt;
+
+&lt;p&gt;He told her the address and asked whether he would get the order he placed for free if the Pizza is not delivered before 30 minutes.The voice on the other side reassured.After he had hung up,he realized he had missed something.”Oh gosh..how could I forget chocolava?”,he said to himself as he re-dialed the number.After ordering the chocolava he once again made sure about the “delivery-before-30-minutes-or-pizza-free” thing before hanging up.He had gathered all of his senses back by this time.&lt;/p&gt;
+
+&lt;p&gt;He kept on changing the channels before he finally settled on Star Movies that was playing “The Ugly Truth”.It is going to be one good afternoon with the movie and the pizza,he thought.Won’t it be even better,if the delivery guy gets late and he gets the pizza for free,he extended his imagination sincerely hoping that the delivery guy does not arrive before 30 minutes . He looked at the clock to learn that it had been 15 minutes since he placed the order.He washed his face and got rid of the apathy.He checked his wallet to ensure he had the required change.He once again checked the time.ETA – 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;His previous experiences with Dominos reminded him that the last 5 minute window of the 30 minutes bracket was the time when the pizza usually arrived . He started becoming restless.ETA 1 minute.His excitement grew with every second .He waited for a few more minutes.When the clock struck 5 minutes past ETA , he rose with a start and walked up to the window.While dialing dominos he saw through the window a mob at the nearby square.His excitement of the free pizza made him ignore that.&lt;/p&gt;
+
+&lt;p&gt;As soon as the same sweet voice on the other side,this time,albeit adulterated, answered the call,he set off with such excitement that every word he spoke demanded the free pizza . After he was done,the sweet yet adulterated voice said , ” Sir, I was about to call you to inform that the guy who had been dispatched to deliver your order met an accident on the way.We would be sending…….”. He did not even let her complete the sentence and hung up.He searched for his bike keys to rush to the spot.On the way it dawned on him what the mob was about.On reaching the square , he saw the delivery guy being carried into an auto.He felt worried.He learnt from the people that the accident wasnt a severe one.That consoled him a bit.Before leaving the place ,he shot one final look at the scattered pizza and coke spilled all over the road.He did not have the heart to eat pizza that day.&lt;/p&gt;
+
+&lt;p&gt;A few days later,on another such sunday afternoon,&lt;/p&gt;
+
+&lt;p&gt;“Maam,I’d like to order 1 mexican Green wave……..”,He spoke slowly.&lt;br /&gt;
+“Sir,is there anything else……..??”,she asked.&lt;br /&gt;
+“Thank you Maam,that would be enough…..My address is….”,he clearly uttered each word so that he need not have to repeat.&lt;br /&gt;
+“Thanks for calling Sir….Have a nice day!”.It was a routine for her.&lt;/p&gt;
+
+&lt;p&gt;“And Maam,one more thing”,he paused for a while before he signed off saying,&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+“Maam,It’s perfectly fine if it takes more than 30 minutes.Its perfectly fine.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
