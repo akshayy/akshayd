@@ -300,6 +300,9 @@ ul {
   font-size: 24px;
   font-weight: normal; }
 
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .job-title {
+    line-height: 28px; } }
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   line-height: 1.25;
