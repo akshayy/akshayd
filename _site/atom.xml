@@ -4,13 +4,86 @@
  <title>Akshay</title>
  <link href="http://localhost:4000//atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-26T18:15:45+05:30</updated>
+ <updated>2017-06-17T22:29:19+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>My Favourite Quotes- Part I</title>
+   <link href="http://localhost:4000///blog/2017/06/17/my-favourites-quotes-part-1.html"/>
+   <updated>2017-06-17T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/2017/06/17/my-favourites-quotes-part-1</id>
+   <content type="html">&lt;div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+  &quot;No matter how you feel, wake up, dress up, show up.&quot;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;quote_by&quot;&gt; Regina Brett&lt;/span&gt;
+    &lt;span class=&quot;tilde&quot;&gt;~&lt;/span&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;quote_div&quot;&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &quot;The two most important days in your life are the day you are born and the day you find out why.&quot;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;quote_by&quot;&gt; Mark Twain&lt;/span&gt;
+    &lt;span class=&quot;tilde&quot;&gt;~&lt;/span&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;quote_div&quot;&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &quot;Engineering is not a degree, it is an attitude.&quot;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;quote_by&quot;&gt; Yours truly&lt;/span&gt;
+    &lt;span class=&quot;tilde&quot;&gt;~&lt;/span&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;quote_div&quot;&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &quot;The one true thing that does not abide by the majority rule is a person's conscience.&quot;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;quote_by&quot;&gt; Atticus (To kill a mocking bird - Harper Lee)&lt;/span&gt;
+    &lt;span class=&quot;tilde&quot;&gt;~&lt;/span&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;quote_div&quot;&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &quot;Haste is a folly but too much delay isn't wise either&quot;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;quote_by&quot;&gt; Sun Tzu&lt;/span&gt;
+    &lt;span class=&quot;tilde&quot;&gt;~&lt;/span&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Welcome to Jekyll!</title>
